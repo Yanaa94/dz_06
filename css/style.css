@@ -128,3 +128,8 @@ button2 {
     font-size: 14px;
 	font-family: DM+Sans;
 }
+
+header li a {
+	text-decoration: none;
+	color: #FFFFFF;
+}
